@@ -3025,20 +3025,6 @@
        {
            "classification": {
                "scheme": "CAV",
-               "id": "04111100-0",
-               "description": "Квартира"
-            }
-       },
-       {
-           "classification": {
-               "scheme": "CAV",
-               "id": "04111200-1",
-               "description": "Таунхаус"
-            }
-       },
-       {
-           "classification": {
-               "scheme": "CAV",
                "id": "30100000-0",
                "description": "Офісні техніка, устаткування та приладдя, крім комп’ютерів, принтерів та меблів"
             }
@@ -3187,8 +3173,6 @@
     "cavs_other": [
         "04000000-8",
         "04111000-9",
-        "04111100-0",
-        "04111200-1",
         "30100000-0",
         "30123200-9",
         "39714110-4",
@@ -3219,28 +3203,6 @@
             "description_ru": "Квартира в доме малоэтажного строительства",
             "description_en": "Flat in low-rise building",
             "quantity": 15,
-            "unit": {
-                "code": "H87",
-                "name": "штуки"
-            }
-        },
-        {
-            "cav_id": "04111100-0",
-            "description": "Квартира",
-            "description_ru": "Квартира",
-            "description_en": "Flat",
-            "quantity": 12,
-            "unit": {
-                "code": "H87",
-                "name": "штуки"
-            }
-        },
-        {
-            "cav_id": "04111200-1",
-            "description": "Таунхаус",
-            "description_ru": "Таунхаус",
-            "description_en": "Townhouse",
-            "quantity": 10,
             "unit": {
                 "code": "H87",
                 "name": "штуки"

@@ -377,8 +377,11 @@ Newtend:
 PrivatMarket:
     intervals:
         default:
-            enquiry: [0, 15]
-            tender:  [0, 15]
+            enquiry: [5, 10]
+            tender:  [5, 10]
+        dgfFinancialAssets:
+            accelerator: 240
+            auction:  [10, 15]
         dgfInsider:
             accelerator: 720
             auction:  [25, 30]
